@@ -13,7 +13,7 @@ env.bak/
 venv.bak/
 
 # Streamlit
-.streamlit/
+
 
 # IDEs
 .vscode/
