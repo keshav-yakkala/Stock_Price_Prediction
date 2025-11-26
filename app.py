@@ -27,7 +27,7 @@ st.set_page_config(
 st.markdown("""
 <style>
     /* Main Background */
-    .main {
+    .stApp {
         background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
         font-family: 'Inter', sans-serif;
     }
@@ -50,7 +50,7 @@ st.markdown("""
     }
     
     /* Sidebar */
-    .css-1d391kg {
+    [data-testid="stSidebar"] {
         background-color: #2d3748;
     }
     
