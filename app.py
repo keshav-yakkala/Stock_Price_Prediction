@@ -68,6 +68,10 @@ st.markdown("""
         background-color: #2d3748;
     }
     
+    [data-testid="stSidebar"] * {
+        color: #ffffff !important;
+    }
+    
     /* Tabs */
     .stTabs [data-baseweb="tab-list"] {
         gap: 10px;
